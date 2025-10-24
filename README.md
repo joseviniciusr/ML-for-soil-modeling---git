@@ -1,0 +1,1 @@
+Material prepared to teach a course on machine learning and deep learning applied to model fertility attributes from spectral data of soil samples at the State University of Londrina - Brazil.
